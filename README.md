@@ -16,8 +16,16 @@
 ---
 
 ## 🔗 Connect with me
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/shristi-kumari1)
-[![LeetCode](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg)](https://www.leetcode.com/shristi_1366)
+
+<a href="https://linkedin.com/in/shristi-kumari1" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+       width="32" height="32" />
+</a>
+
+<a href="https://www.leetcode.com/shristi_1366" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
+       width="32" height="32" />
+</a>
 
 ---
 
