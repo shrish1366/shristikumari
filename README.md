@@ -25,11 +25,3 @@
 ![Skills](https://skillicons.dev/icons?i=python,java,js,html,css,mysql,mongodb,git,linux,aws,gcp,tensorflow,pytorch)
 
 ---
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shrish1366&show_icons=true&theme=tokyonight&cache_seconds=86400)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=shrish1366&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shrish1366&layout=compact&theme=tokyonight&cache_seconds=86400)
